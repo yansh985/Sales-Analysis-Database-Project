@@ -40,15 +40,17 @@ This project is an end-to-end MySQL database solution designed for a sales analy
 
 ## How to Use
 1. Import the provided `.sql` files or use the `.csv` data to create the tables.
-2. Execute the SQL queries provided in the 5`.sql` files to generate insights.
+2. Execute the SQL queries in the 5 `.sql` files to generate insights.
 ------
 
 ## License
 This project is licensed under the MIT License.
+
 ------
-# If you like this mini project, star this repository.
+## If you like this mini project, star this repository.
+
 ------
-# Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## Contact

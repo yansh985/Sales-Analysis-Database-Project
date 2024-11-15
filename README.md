@@ -38,9 +38,19 @@ This project is an end-to-end MySQL database solution designed for a sales analy
 - Analyzed monthly revenue trends to understand seasonality.
 - Highlighted key customer segments based on spending behavior.
 
+## Skills Demonstrated
+- SQL Joins
+- Data Aggregation
+- Query-based analysis for business insights
+- Data Integrity and Foreign Key Management
+
+## Future Enhancements
+Explore views and stored procedures for complex reporting.
+
 ## How to Use
-1. Import the provided `.sql` files or use the `.csv` data to create the tables.
-2. Execute the SQL queries in the 5 `.sql` files to generate insights.
+1. Create a database in MySQL.
+2. Import the tables from the provided '.sql' and '.csv' files.
+3. Execute the analysis queries to gain insights.
 
 ## License
 This project is licensed under the MIT License.

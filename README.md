@@ -1,1 +1,61 @@
-# Sales-Analysis-Database-Project
+# Sales Analysis Database Project
+
+## Overview
+
+This project is an end-to-end MySQL database solution designed for a sales analysis scenario. The database contains four primary tables: `Customers`, `Products`, `Orders`, and `Order_Details`, enabling comprehensive sales and customer behavior analysis.
+
+## Project Objectives
+1. Build a structured database with MySQL to support complex data analysis for sales insights.
+2. Run SQL queries for sales, customer, and product-level analysis to reveal key business insights.
+
+## Database Design
+- **Customers**: Stores customer information including name, email, and country.
+- **Products**: Stores product details such as price and category.
+- **Orders**: Logs each customer’s orders with product quantity and date.
+- **Order_Details**: Holds additional information for each order like discount, shipping fee, and order status.
+
+## Key Analysis
+1. **Sales Analysis**
+   - Total Sales by Product Category
+   - Top 5 Best-Selling Products
+   - Monthly Revenue Trend
+
+2. **Customer Insights**
+   - Top Customers by Total Spending
+   - Purchase Frequency by Country
+
+3. **Order Processing and Logistics**
+   - Average Discount and Shipping Fee by Order Status
+   - Pending and Cancelled Orders Analysis
+
+## Technologies Used
+- MySQL
+- SQL queries for data analysis
+- Excel (data preparation)
+
+## Insights and Findings
+- Identified top-performing product categories.
+- Analyzed monthly revenue trends to understand seasonality.
+- Highlighted key customer segments based on spending behavior.
+
+## How to Use
+1. Import the provided `.sql` files or use the `.csv` data to create the tables.
+2. Execute the SQL queries provided in the 5`.sql` files to generate insights.
+------
+
+## License
+This project is licensed under the MIT License.
+------
+# If you like this mini project, star this repository.
+------
+# Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## Contact
+For any questions or suggestions, please contact:
+- **Name**: Ansh Yadav
+- **Email**: yansh985@gmail.com
+
+Feel free to adjust the contact email and any other details as needed.
+
+------

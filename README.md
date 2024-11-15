@@ -12,7 +12,7 @@ This project is an end-to-end MySQL database solution designed for a sales analy
 - **Customers**: Stores customer information including name, email, and country.
 - **Products**: Stores product details such as price and category.
 - **Orders**: Logs each customer’s orders with product quantity and date.
-- **Order_Details**: Holds additional information for each order like discount, shipping fee, and order status.
+- **Order_Details**: This holds additional information for each order, such as discounts, shipping fees, and order statuses.
 
 ## Key Analysis
 1. **Sales Analysis**
@@ -41,15 +41,12 @@ This project is an end-to-end MySQL database solution designed for a sales analy
 ## How to Use
 1. Import the provided `.sql` files or use the `.csv` data to create the tables.
 2. Execute the SQL queries in the 5 `.sql` files to generate insights.
-------
 
 ## License
 This project is licensed under the MIT License.
 
-------
 ## If you like this mini project, star this repository.
 
-------
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
@@ -60,4 +57,3 @@ For any questions or suggestions, please contact:
 
 Feel free to adjust the contact email and any other details as needed.
 
-------
